@@ -1,0 +1,89 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# zhuyin by polyhedron
+#
+# 使用說明
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#  - 2019.02.25
+#
+# 版權歸作者所有
+#
+
+---
+name: zhuyin
+version: "2019.02.25"
+sort: original
+...
+
+ㄅ	b
+ㄆ	p
+ㄇ	m
+ㄈ	f
+ㄪ	V
+ㄉ	d
+ㄊ	t
+ㄋ	n
+ㄌ	l
+ㄍ	g
+ㄎ	k
+ㄫ	Ng
+ㄏ	h
+ㄐ	j
+ㄑ	q
+ㄬ	Ny
+ㄒ	x
+ㄓ	zh
+ㄔ	ch
+ㄕ	sh
+ㄖ	r
+ㄗ	z
+ㄘ	c
+ㄙ	s
+ㄧ	y
+ㄨ	w
+ㄩ	yu
+ㄧ	i
+ㄨ	u
+ㄩ	v
+ㄚ	a
+ㄛ	o
+ㄧㄛ	io
+ㄜ	e
+ㄝ	ee
+ㄧㄝ	ie
+ㄩㄝ	ve
+ㄞ	ai
+ㄟ	ei
+ㄨㄟ	ui
+ㄠ	ao
+ㄡ	ou
+ㄧㄡ	iu
+ㄢ	an
+ㄣ	en
+ㄨㄣ	un
+ㄧㄣ	in
+ㄩㄣ	vn
+ㄤ	ang
+ㄥ	eng
+ㄧㄥ	ing
+ㄨㄥ	ong
+ㄩㄥ	iong
+ㄦ	er
+ㆭ	NG
+ㆬ	M
+ㄯ	N
+ˊ	/
+ˇ	^
+ˋ	\
+˙	.
+꜀	P
+꜁	PP
+꜂	S
+꜃	SS
+꜄	Q
+꜅	QQ
+꜆	R
+꜇	RR
